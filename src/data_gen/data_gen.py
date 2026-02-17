@@ -8,7 +8,7 @@ import os
 NUM_USERS = 3000
 DAYS = 30
 START_DATE = datetime(2024, 1, 1)
-OUTPUT_PATH = "/home/jijo/Projects/Hamon/data/hamon_googlefit_medical_realistic.csv"
+OUTPUT_PATH = "../data/hamon_googlefit_medical_realistic.csv"
 
 rng = np.random.default_rng(42)
 
